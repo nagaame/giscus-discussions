@@ -1,1 +1,1 @@
-# giscus
+# giscus discussions repository
