@@ -1,5 +1,5 @@
 {
-  "origins": ["https://kanda.me"],
+  "origins": ["https://kanda.me", "https://giscus.kanda.me"],
   "originsRegex": ["http://localhost:[0-9]+"],
   "defaultCommentOrder": "newest"
 }
