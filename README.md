@@ -1,2 +1,2 @@
 # giscus discussions repository
-go to here 👉🏻 [discussions](https://github.com/nagaame/giscus-discussions/discussions), my blog: [kanda.me](https://kuokuo.io/)
+go to here 👉🏻 [discussions](https://github.com/nagaame/giscus-discussions/discussions), my blog: [kuokuo.io](https://kuokuo.io/)
